@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 职业规划
+ 提要：目前学业务提升不大，打算从计算机基础知识补起，时间为整个9月份，学习四门课程，计算机操作系统，计算机网络， 计算机组成原理
+ 1.计算机网络
+ 掘金课程学习
+ https://juejin.cn/post/7254391275800166461 作者 没有故事的zhang同学https://juejin.cn/user/1574156381196600/posts
